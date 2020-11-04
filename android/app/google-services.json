@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "720197600965",
+    "firebase_url": "https://whatsnew-65491.firebaseio.com",
+    "project_id": "whatsnew-65491",
+    "storage_bucket": "whatsnew-65491.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720197600965:android:f30b291b402bb5b1e652ac",
+        "android_client_info": {
+          "package_name": "com.example.intro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720197600965-o9sd49ucs1rlj7qa7uhikeujvlt2o5qo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5Ncz0HpfALcHxYDXbrmWh2hTBsTV0UM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720197600965-o9sd49ucs1rlj7qa7uhikeujvlt2o5qo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
